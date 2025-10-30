@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 ---
 
-### Welcome!
+## Welcome!
 
 This is **Jaewon Cheon’s personal website**.  
 I am a Master's student in Industrial and Management Engineering at Korea University, advised by Prof. [Pilsung Kang](https://scholar.google.com/citations?user=I2pcWZIAAAAJ).  
