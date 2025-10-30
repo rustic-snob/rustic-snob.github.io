@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /
+  - title: "Posts"
+    url: /posts/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /assets/files/CV.pdf # (중요) CV.pdf 파일을 /assets/files/ 폴더에 업로드하세요.
