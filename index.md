@@ -13,7 +13,8 @@ My primary research interests are **Efficient Sequence Modeling** and **Test-tim
 ---
 ### NEWS
 
-* **[10/2025]** Will be attending **EMNLP 2025** to present our paper.
+* **[01/2026]** I will be joining **NAVER Cloud** as a **Foundation Model Research Intern**.
+* **[10/2025]** I Will be attending **EMNLP 2025** to present our paper.
 * **[08/2025]** Our paper, "COUNTDOWN: Contextually Sparse Activation Filtering Out Unnecessary Weights in Down Projection," was accepted to **EMNLP 2025**.
 
 ---
