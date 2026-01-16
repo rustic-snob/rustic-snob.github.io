@@ -3,6 +3,7 @@ title: Welcome!
 layout: single
 author_profile: true
 permalink: /
+classes: wide
 ---
 
 This is **Jaewon Cheon’s personal website**.  
