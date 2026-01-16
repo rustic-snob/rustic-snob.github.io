@@ -3,6 +3,7 @@ layout: single
 title: "Publications & Presentations"
 permalink: /publications/
 author_profile: false
+classes: wide
 ---
 
 ## Publications
