@@ -7,13 +7,15 @@ classes: wide
 ---
 
 This is **Jaewon Cheon’s personal website**.  
-I am a Master's student in Industrial and Management Engineering at Korea University, advised by Prof. [Pilsung Kang](https://scholar.google.com/citations?user=I2pcWZIAAAAJ).  
+I am an LLM Research Engineer at **Kakao Corp** (Language Model Team). I received my M.S. in Industrial and Management Engineering at Korea University, advised by Prof. [Pilsung Kang](https://scholar.google.com/citations?user=I2pcWZIAAAAJ).  
 
-My primary research interests are **Efficient Sequence Modeling** and **Test-time Computations**.  
+My primary research interests are **Efficient Sequence Modeling**, **Post-training**, and **Test-time Computations**.
 
 ---
 ### NEWS
 
+* **[08/2026]** Joined **Kakao** (Language Model Team) as an LLM Research Engineer.
+* **[02/2026]** Graduated with an M.S. from **Korea University** (DSBA Lab).
 * **[01/2026]** I will be joining **NAVER Cloud** as a **Foundation Model Research Intern**.
 * **[10/2025]** I Will be attending **EMNLP 2025** to present our paper.
 * **[08/2025]** Our paper, "COUNTDOWN: Contextually Sparse Activation Filtering Out Unnecessary Weights in Down Projection," was accepted to **EMNLP 2025**.
@@ -21,7 +23,7 @@ My primary research interests are **Efficient Sequence Modeling** and **Test-tim
 ---
 ### Seminar
 
-<div style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px;">
   <div>
     <a href="https://www.youtube.com/watch?v=JjxBNBzDbNk" target="_blank" rel="noopener noreferrer" style="display: block;">
       <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden; border-radius: 6px;">

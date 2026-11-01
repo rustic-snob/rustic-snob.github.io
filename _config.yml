@@ -115,7 +115,7 @@ analytics:
 author:
   name: "Jaewon Cheon" # [cite: 2]
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "M.S. Student @ Korea University"  
+  bio: "LLM Research Engineer @ Kakao (LMT) | M.S. Korea Univ"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
